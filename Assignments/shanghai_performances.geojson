@@ -1,0 +1,265 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49,
+          31.2338
+        ]
+      },
+      "properties": {
+        "Performance": "Play 'Art'",
+        "Venue Name": "Jasmine Theater",
+        "Venue Location": "247 Beihai Road, Huangpu District",
+        "Start Time": "2025-02-27 19:30",
+        "End Time": "2025-02-27 21:30",
+        "Lowest Price (CNY)": 80,
+        "Highest Price (CNY)": 580,
+        "Estimated Attendance": 550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4879,
+          31.2346
+        ]
+      },
+      "properties": {
+        "Performance": "Opera 'The Dream of Splendor'",
+        "Venue Name": "Shanghai Grand Theater",
+        "Venue Location": "300 Renmin Avenue (East Nanjing Road, People’s Square)",
+        "Start Time": "2025-03-28 19:30",
+        "End Time": "2025-03-28 21:30",
+        "Lowest Price (CNY)": 80,
+        "Highest Price (CNY)": 880,
+        "Estimated Attendance": 1800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4879,
+          31.2346
+        ]
+      },
+      "properties": {
+        "Performance": "Play 'Before the Court' 2.0 Edition",
+        "Venue Name": "Shanghai Grand Theater",
+        "Venue Location": "300 Renmin Avenue (East Nanjing Road, People’s Square)",
+        "Start Time": "2025-04-04 19:30",
+        "End Time": "2025-04-04 21:30",
+        "Lowest Price (CNY)": 180,
+        "Highest Price (CNY)": 580,
+        "Estimated Attendance": 1700
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4429,
+          31.223
+        ]
+      },
+      "properties": {
+        "Performance": "Play 'The Metamorphosis' (Kafka)",
+        "Venue Name": "Shanghai Dramatic Arts Center",
+        "Venue Location": "288 Anfu Road, Xuhui District",
+        "Start Time": "2025-02-15 19:30",
+        "End Time": "2025-02-15 21:30",
+        "Lowest Price (CNY)": 180,
+        "Highest Price (CNY)": 480,
+        "Estimated Attendance": 650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4429,
+          31.223
+        ]
+      },
+      "properties": {
+        "Performance": "Play 'The Deer and the Cauldron'",
+        "Venue Name": "Shanghai Dramatic Arts Center",
+        "Venue Location": "288 Anfu Road, Xuhui District",
+        "Start Time": "2025-03-05 19:30",
+        "End Time": "2025-03-05 21:30",
+        "Lowest Price (CNY)": 180,
+        "Highest Price (CNY)": 580,
+        "Estimated Attendance": 650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4429,
+          31.223
+        ]
+      },
+      "properties": {
+        "Performance": "Musical 'The Snowstorm Temple'",
+        "Venue Name": "Shanghai Dramatic Arts Center",
+        "Venue Location": "288 Anfu Road, Xuhui District",
+        "Start Time": "2025-04-10 19:30",
+        "End Time": "2025-04-10 21:30",
+        "Lowest Price (CNY)": 180,
+        "Highest Price (CNY)": 680,
+        "Estimated Attendance": 700
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4429,
+          31.223
+        ]
+      },
+      "properties": {
+        "Performance": "Play 'The End of the Rainbow'",
+        "Venue Name": "Shanghai Dramatic Arts Center",
+        "Venue Location": "288 Anfu Road, Xuhui District",
+        "Start Time": "2025-05-02 19:30",
+        "End Time": "2025-05-02 21:30",
+        "Lowest Price (CNY)": 180,
+        "Highest Price (CNY)": 580,
+        "Estimated Attendance": 600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4429,
+          31.223
+        ]
+      },
+      "properties": {
+        "Performance": "Play 'The Three Musketeers'",
+        "Venue Name": "Shanghai Dramatic Arts Center",
+        "Venue Location": "288 Anfu Road, Xuhui District",
+        "Start Time": "2025-05-15 19:30",
+        "End Time": "2025-05-15 21:30",
+        "Lowest Price (CNY)": 180,
+        "Highest Price (CNY)": 580,
+        "Estimated Attendance": 650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4879,
+          31.2346
+        ]
+      },
+      "properties": {
+        "Performance": "Opera 'Tristan und Isolde'",
+        "Venue Name": "Shanghai Opera House Grand Theater",
+        "Venue Location": "300 Renmin Avenue, Huangpu District",
+        "Start Time": "2025-05-05 19:30",
+        "End Time": "2025-05-05 21:30",
+        "Lowest Price (CNY)": 180,
+        "Highest Price (CNY)": 980,
+        "Estimated Attendance": 1800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4879,
+          31.2346
+        ]
+      },
+      "properties": {
+        "Performance": "Opera 'Falstaff'",
+        "Venue Name": "Shanghai Opera House Grand Theater",
+        "Venue Location": "300 Renmin Avenue, Huangpu District",
+        "Start Time": "2025-05-12 19:30",
+        "End Time": "2025-05-12 21:30",
+        "Lowest Price (CNY)": 180,
+        "Highest Price (CNY)": 980,
+        "Estimated Attendance": 1800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4879,
+          31.2346
+        ]
+      },
+      "properties": {
+        "Performance": "Opera 'The Woman’s Heart' (Semi-Staged)",
+        "Venue Name": "Shanghai Opera House Grand Theater",
+        "Venue Location": "300 Renmin Avenue, Huangpu District",
+        "Start Time": "2025-04-20 19:30",
+        "End Time": "2025-04-20 21:30",
+        "Lowest Price (CNY)": 180,
+        "Highest Price (CNY)": 880,
+        "Estimated Attendance": 1800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5071,
+          31.2245
+        ]
+      },
+      "properties": {
+        "Performance": "Dance Drama 'Peacock'",
+        "Venue Name": "Oriental Art Center Opera Hall",
+        "Venue Location": "425 Dingxiang Road, Pudong New Area",
+        "Start Time": "2025-05-28 19:15",
+        "End Time": "2025-05-28 21:15",
+        "Lowest Price (CNY)": 180,
+        "Highest Price (CNY)": 1080,
+        "Estimated Attendance": 900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4879,
+          31.2346
+        ]
+      },
+      "properties": {
+        "Performance": "Dance Drama 'The Phantom of the Opera' (Flamenco)",
+        "Venue Name": "Shanghai Grand Theater",
+        "Venue Location": "300 Renmin Avenue, Huangpu District",
+        "Start Time": "2025-02-01 19:30",
+        "End Time": "2025-02-01 21:30",
+        "Lowest Price (CNY)": 80,
+        "Highest Price (CNY)": 880,
+        "Estimated Attendance": 1800
+      }
+    }
+  ]
+}
